@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ElderLink**
 
-- 🌱 I’m currently learning **React, Node, Express, Flutter**
+- 🌱 I’m currently learning **React, Node, Express, Flutter, Pandas, Firebase, Matplotlib, Pytorch**
 
 - 📫 How to reach me **chmr6699@gmail.com**
 
